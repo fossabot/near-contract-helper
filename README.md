@@ -1,4 +1,6 @@
 # near-contract-helper
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhtafolla%2Fnear-contract-helper.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhtafolla%2Fnear-contract-helper?ref=badge_shield)
+
 
 Microservice used to create NEAR accounts
 
@@ -87,3 +89,6 @@ Spies and fake timers provided with [sinon].
 [chai]: https://www.chaijs.com/
 [chai-as-promised]: https://www.chaijs.com/plugins/chai-as-promised/
 [sinon]: https://sinonjs.org/
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhtafolla%2Fnear-contract-helper.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhtafolla%2Fnear-contract-helper?ref=badge_large)
